@@ -1,0 +1,53 @@
+@charset "utf-8";
+/* CSS Document for Freelance Website */
+
+body {
+    background-color: #5D5E5D;
+}
+#wrapper {
+    background-color: #080B8A;
+    margin: auto;
+    width: 1200px;
+}
+#banner {
+    background-color: #A41B17;
+    height: 200px;
+}
+
+#logo {
+    margin: auto;
+    float: left;
+    width: 250px;
+    height: 200px;
+    background-color: #5C5A5A;
+}
+#name {
+    float: left;
+    font-family: Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", serif;
+    font-size: 75px;
+    text-align: center;
+    margin: 55px;
+}
+#description {
+    background-color: #A41B17;
+    margin: auto;
+    width: 1200px;
+    font-family: Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", serif;
+    font-size: 24px;
+}
+#sideNavleft {
+    background-color: #0BE909;
+    width: 300px;
+    float: left;
+}
+#main {
+    width: 880px;
+    background-color: #FDBD00;
+    float: left;
+    border-left: 20px solid #080B8A;
+}
+#footer {
+    background-color: #E800DF;
+    width: 1200px;
+    clear: both;
+}
