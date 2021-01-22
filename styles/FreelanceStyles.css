@@ -46,9 +46,14 @@ body {
     background-color: #FDBD00;
     float: left;
     border-left: 20px solid #080B8A;
+    text-align: center;
 }
 #footer {
     background-color: #E800DF;
     width: 1200px;
     clear: both;
+}
+.imgLeft {
+    border: 2 solid #000000;
+    float: left;
 }
