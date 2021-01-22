@@ -37,9 +37,12 @@ body {
     text-align: center;
 }
 #sideNavleft {
-    background-color: #0BE909;
+    background-color: #A41B17;
     width: 300px;
     float: left;
+    text-align: center;
+    font-weight: bold;
+    font-size: 36px;
 }
 #main {
     width: 880px;
