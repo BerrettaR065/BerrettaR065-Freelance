@@ -12,6 +12,8 @@ body {
 #banner {
     background-color: #A41B17;
     height: 200px;
+    font-family: black-ops-one;
+    font-weight: 400;
 }
 
 #logo {
@@ -23,10 +25,11 @@ body {
 }
 #name {
     float: left;
-    font-family: Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", serif;
     font-size: 75px;
     text-align: center;
     margin: 55px;
+    font-family: Impact, Haettenschweiler, "Franklin Gothic Bold", "Arial Black", sans-serif;
+    font-style: oblique;
 }
 #description {
     background-color: #A41B17;
