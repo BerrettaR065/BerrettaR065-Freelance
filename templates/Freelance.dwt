@@ -24,9 +24,18 @@
 	 <!-- End of description section -->
 	
   <div id="sideNavleft"><span style="font-weight: bold">Check Us Out!</span>
-<li>Home Page	  </li>
-	<li>Our Services</li>
-	<li>Contacts</li>
+
+	<div class="shadowblockmenu-v">
+<ul>
+<li><a href="http://www.dynamicdrive.com/">Dynamic Drive</a></li>
+<li><a href="http://www.dynamicdrive.com/style/">CSS Library</a></li>
+<li><a href="http://www.cssdrive.com/">CSS Drive</a></li>
+
+</ul>
+</div>
+  
+	  
+	  
    <img src="../images/sale.gif" width="300" height="145" alt=""/> </div>
 	
 <div id="main">
